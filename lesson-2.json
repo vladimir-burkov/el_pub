@@ -75,7 +75,7 @@
   },
   "tasks": [
     {
-      "type": "quizes",
+      "type": "quizes"
     }
   ]
 }
