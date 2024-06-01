@@ -60,7 +60,7 @@
               "id": "vocbl",
               "title": "Vocaburlary Level",
               "type": "match_pair",
-              "general_question": "Сопоставьте слова с тх переводом"
+              "general_question": "Сопоставьте слова с их переводом"
             },
             {
               "id": "level1",
@@ -276,7 +276,7 @@
               "id": "vocbl",
               "title": "Vocaburlary Level",
               "type": "match_pair",
-              "general_question": "Сопоставьте слова с тх переводом"
+              "general_question": "Сопоставьте слова с их переводом"
             },
             {
               "id": "level1",
